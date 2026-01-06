@@ -17,8 +17,6 @@
   <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Rodrigo-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Rodrigo-Sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-  <img align="right" alt="Rodrigo-gif" height="30" width="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZ5ZzRzMmFzcjVlazNnd25tMWYxcGY1Mmw4MGJ4ZmhpbHNlaXNlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BPJmthQ3YRwD6QqcVD/giphy.gif" />
-   
 </div>
 
   ##
