@@ -4,11 +4,23 @@
 - 🌱 Estudando programação (Python, SQL, HTML, CSS, JavaScript, Flask)
 - 📫 Contate-me no email: rodrigo.mendes925@hotmail.com
 - ⚡ Curiosidades sobre mim: Sou formado em Odontologia, com Especialização em Implantes e Próteses Dentárias e fazendo transição de carreira para tecnologia.
+
+---
+
+### Projetos 
+
+- Renomeador e compactador em lote (versão estável)
+- Site de e-commerce (ainda será implantado)
+- Prontuário digital para profissinais da área de estética (ainda será implantando)
+---
 <div>
  <img height="180em" alt="Rodrigo's GitHub Stats" src="https://github-readme-stats1-ebon.vercel.app/api?username=rory-mendez&show_icons=true&hide_border=false&title_color=6a329f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   <img height="180em" alt="Rodrigo's GitHub Stats" src="https://github-readme-stats1-ebon.vercel.app/api/top-langs/?username=rory-mendez&layout=compact&langs_count=16&hide_border=false&title_color=6a329f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   </div>
-
+  
+---
+  
+### Tech Stack
  <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
    <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
